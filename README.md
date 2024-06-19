@@ -1,6 +1,8 @@
-# Useful Commands
+# ⚠️ Useful Commands
 
-### Basic 
+## Introduction
 
-git init - instantiate a new git repository
-git status - 
+> 🗒️ Basic 
+ 
+1. git init - instantiate a new git repository
+2. git status - 
